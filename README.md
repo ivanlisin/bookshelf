@@ -1,17 +1,21 @@
-# Bookshelf
+## Bookshelf
 
-[You dont know js](https://github.com/getify/You-Dont-Know-JS)
+This is a list of materials of interest to me. Some I have read, some I will read later.
 
-[You dont need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
+* [You dont know js](https://github.com/getify/You-Dont-Know-JS)
 
-[Javascript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+* [You dont need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 
-[You dont need lodash underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+* [Javascript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
-# Книжная полка
+* [You dont need lodash underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 
-[Шаблоны проектирования](https://github.com/Hexlet/patterns)
+## Книжная полка
 
-[Вам не нужен jQuery](https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README-ru.md)
+Это список интересных мне материалов. Какие-то прочитаны, какие-то я прочитаю позже.
 
-[Заметки Николая Ясинского](https://github.com/nydevel/programmer)
+* [Шаблоны проектирования](https://github.com/Hexlet/patterns)
+
+* [Вам не нужен jQuery](https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README-ru.md)
+
+* [Заметки Николая Ясинского](https://github.com/nydevel/programmer)
