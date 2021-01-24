@@ -10,6 +10,8 @@ This is a list of materials of interest to me. Some I have read, some I will rea
 
 * [You dont need lodash underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 
+* [Tabs or spaces](https://ukupat.github.io/tabs-or-spaces/)
+
 ## Книжная полка
 
 Это список интересных мне материалов. Какие-то прочитаны, какие-то я прочитаю позже.
